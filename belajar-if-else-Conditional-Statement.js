@@ -41,3 +41,5 @@ if (number>5) {
         console.log("lebih kecil dari 5 dan ganjil")
     }
 }
+// == akan melakukan konversi jadi bisa bertemu dengan beda data tapi string akan ter ubah jadi number
+// === data harus sesuai jika tidak akan menjadi false karna tidak ada konversi
