@@ -19,27 +19,27 @@ console.log(banding2, "||")
 let banding3 = nilai != 50; 
 console.log(banding3, "!" )
 
-//apabedannya == dan ===
-let x = 50; //number
-let y = "50"; //string
-let banding4 = x == y;
-console.log(banding4, "4")
-let banding5 = x === y;
-console.log(banding4, "4")
+// //apabedannya == dan ===
+// let x = 50; //number
+// let y = "50"; //string
+// let banding4 = x == y;
+// console.log(banding4, "4")
+// let banding5 = x === y;
+// console.log(banding4, "4")
 
-let number =3;
-if (number>5) {
-    if (number % 2 === 0){
-        console.log("lebih besar dari 5 dan genap")
-    } else {
-        console.log("lebih besar dari 5 dan ganjil")
-    }
-}else {
-    if (number % 2 === 0){
-        console.log("lebih kecil dari 5 dan genap")
-    } else {
-        console.log("lebih kecil dari 5 dan ganjil")
-    }
-}
-// == akan melakukan konversi jadi bisa bertemu dengan beda data tapi string akan ter ubah jadi number
-// === data harus sesuai jika tidak akan menjadi false karna tidak ada konversi
+// let number =3;
+// if (number>5) {
+//     if (number % 2 === 0){
+//         console.log("lebih besar dari 5 dan genap")
+//     } else {
+//         console.log("lebih besar dari 5 dan ganjil")
+//     }
+// }else {
+//     if (number % 2 === 0){
+//         console.log("lebih kecil dari 5 dan genap")
+//     } else {
+//         console.log("lebih kecil dari 5 dan ganjil")
+//     }
+// }
+// // == akan melakukan konversi jadi bisa bertemu dengan beda data tapi string akan ter ubah jadi number
+// // === data harus sesuai jika tidak akan menjadi false karna tidak ada konversi
